@@ -1,1 +1,1 @@
-git, maven, jira.
+git, maven, jira all these are tools.
