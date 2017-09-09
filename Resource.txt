@@ -1,1 +1,4 @@
 git, maven, jira all these are tools.
+source.dir=src
+war.dir=war
+
